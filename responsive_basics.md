@@ -1,3 +1,9 @@
+#   meta viewport
+    ```
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    ```
+    
+
 ## display_flex:
     ```
     width:100%;
